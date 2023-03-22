@@ -21,10 +21,10 @@ body{
 }
 .book{ 
 	padding-top:15px;
-	background:rgb(255, 255, 255); 
+	background:rgb(255, 255, 255);     
 }
 .center{
 	display: block;
   margin-left: auto;
   margin-right: auto;
-}
+}    

@@ -13,14 +13,15 @@ body{
 	color:#777777;
 }
 .book-library{ 
-	background:rgb(255, 255, 255);  
+	background-color:#ffffff;    
 }
 .img3{
 	height:314px;
 	width:200px;  
 }
 .book{ 
-	padding-top:15px; 
+	padding-top:15px;
+	background:rgb(255, 255, 255); 
 }
 .center{
 	display: block;
